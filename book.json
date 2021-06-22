@@ -1,0 +1,6 @@
+{
+  "generator": "site",
+  "title": "Trillionaire Token Whitepaper",
+  "description": "This is whitepaper for Trillionaire Token.",
+  "plugins": ["theme-comscore"]
+}
